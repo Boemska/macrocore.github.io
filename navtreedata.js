@@ -23,7 +23,7 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "Boemska", "index.html", [
+  [ "MacroCore", "index.html", [
     [ "File List", "files.html", "files" ]
   ] ]
 ];
