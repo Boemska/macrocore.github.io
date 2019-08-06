@@ -8,6 +8,7 @@ var dir_0d92069d5a23b1d3125c326d74f1a07c =
     [ "mm_createfolder.sas", "mm__createfolder_8sas.html", null ],
     [ "mm_createlibrary.sas", "mm__createlibrary_8sas.html", "mm__createlibrary_8sas" ],
     [ "mm_createstp.sas", "mm__createstp_8sas.html", "mm__createstp_8sas" ],
+    [ "mm_createwebservice.sas", "mm__createwebservice_8sas.html", null ],
     [ "mm_getdirectories.sas", "mm__getdirectories_8sas.html", null ],
     [ "mm_getdocument.sas", "mm__getdocument_8sas.html", "mm__getdocument_8sas" ],
     [ "mm_getgroupmembers.sas", "mm__getgroupmembers_8sas.html", null ],
